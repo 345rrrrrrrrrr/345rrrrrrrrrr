@@ -10,7 +10,3 @@
 
 
 ![hur1el's GitHub stats](https://github-readme-stats.vercel.app/api?username=hur1el&show_icons=true&theme=radical)
-
-![snake gif](https://github.com/hur1el/hur1el/blob/output/github-contribution-grid-snake.svg)
-
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=hur1el)
