@@ -1,4 +1,11 @@
-## hello human! im 345r*?
+## hello human! im 345r*10
+
+<h1 align="center" style="font-size: 50px;"> I am a narsisist or narsist dont remember full word. </h1>
+
+<p style="font-family: 'Comic Sans MS'; font-size: 20px;">
+my lastest project is XdbgAI but i have some crazy plans. More about me is down there 👇
+</p>
+
 
 - I use artifical intelligance or.. ai to code mostly.
 - I like coding but i hate learning so im in deep fight with my brain.
